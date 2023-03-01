@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f74e4d02808e0004",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8086733afd686c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a292daf6a3d18f5a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "viewState": {
+                  "x": -3007.6170644471954,
+                  "y": 1317.289685393398,
+                  "zoom": -1.4460462049161538
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b3ba9688a696b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "37a6677eff2cde79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4fca2bfd79b740",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07133187f5ae2a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad800c2baa323dc2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37fe44e37cf15ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0a25d664d31e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93022046bfce82ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "289f1bfacea4b8de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c66022c32e20c626",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf6828fff323f385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false
+    }
+  },
+  "active": "a292daf6a3d18f5a",
+  "lastOpenFiles": [
+    "ML/ML Canvas.canvas",
+    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "Linear Algebra",
+    "New.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "ML/Untitled 1.canvas",
+    "2023-02-28.md",
+    "ML/Untitled.md",
+    "Hello.md",
+    "ML/Docker_Lab_Questions_Answers_8th_February_2023.pdf",
+    "ML/Hello.md",
+    "dfc.md",
+    "ML",
+    "Don't.md",
+    "hgfhgf.md",
+    "hgj.md",
+    "Untitled 2.canvas",
+    "Kubernetes_Lab_Questions_22nd_February_2023.pdf",
+    "GH/He.md",
+    "GH/Untitled.canvas",
+    "GH/Untitled.md",
+    "GH",
+    "ML"
+  ]
+}
