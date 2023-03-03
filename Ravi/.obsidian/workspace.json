@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a292daf6a3d18f5a",
+            "id": "35bb9bf0f52478ae",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "file": "AI/AI Canvas.canvas",
                 "viewState": {
-                  "x": -3007.6170644471954,
-                  "y": 1317.289685393398,
-                  "zoom": -1.4460462049161538
+                  "x": -1423.0747686735738,
+                  "y": 120.98329501163664,
+                  "zoom": -1.0914677694738564
                 }
+              }
+            }
+          },
+          {
+            "id": "1f203fb593d7fbd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Things provided by Domain Designer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "file": "AI/AI Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Linear Algebra Canvas.canvas",
+                "file": "AI/AI Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Linear Algebra Canvas.canvas"
+                "file": "AI/AI Canvas.canvas"
               }
             }
           }
@@ -149,14 +161,31 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "a292daf6a3d18f5a",
+  "active": "35bb9bf0f52478ae",
   "lastOpenFiles": [
     "ML/ML Canvas.canvas",
     "Linear Algebra/Linear Algebra Canvas.canvas",
+    "AI/AI Canvas.canvas",
+    "One Algorithm to solve all problems.md",
+    "Things provided by Domain Designer.md",
+    "N Queens Problem.md",
+    "8-Puzzle Problem.md",
+    "Uninformed Seach.md",
+    "Problem Representation.md",
+    "Who designs state space?.md",
+    "Example of Atomic state.md",
+    "What state may contain.md",
+    "Another way to think about problem.md",
+    "AI",
+    "ML/5.png",
+    "ML/ML Midsem Exam Canvas.canvas",
+    "ML/4.png",
+    "ML/3.png",
+    "ML/2.png",
+    "ML/1.png",
     "Linear Algebra",
     "New.md",
     "Untitled.canvas",
-    "Untitled.md",
     "Untitled 1.canvas",
     "ML/Untitled 1.canvas",
     "2023-02-28.md",

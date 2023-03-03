@@ -1,0 +1,1 @@
+1. We don't have any idea which is a better state  and which is a worse state, this problems are called uninformed search problems.

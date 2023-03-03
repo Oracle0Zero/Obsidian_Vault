@@ -34,9 +34,9 @@
 		{"type":"link","url":"https://youtu.be/WNuIhXo39_k","id":"58c126232ce01f89","x":-397,"y":3155,"width":640,"height":360},
 		{"type":"link","url":"https://youtu.be/rVQ3G9epCjw","id":"466f070f3f52ee06","x":520,"y":2945,"width":640,"height":360},
 		{"type":"link","url":"https://drive.google.com/file/d/1TOKhM66GvX7iwJaSaTgubWUQrovdQvES/view?usp=share_link","id":"1b4b844aa471b64b","x":1700,"y":3155,"width":400,"height":400},
-		{"type":"text","text":"Cauchy-Shward Inequality","id":"7f2a0cbec75cfb3f","x":-934,"y":3780,"width":274,"height":80,"color":"5"},
-		{"id":"5f21aeed45571fb4","x":-1820,"y":3335,"width":640,"height":360,"type":"link","url":"https://youtu.be/r2PogGDl8_U"},
-		{"id":"0f87bbcb8551ce85","x":-2560,"y":2980,"width":400,"height":400,"type":"link","url":"https://drive.google.com/file/d/1NvBMAfFPVX2DwLqncjPhzaSoBNtdibm9/view?usp=share_link"}
+		{"type":"text","text":"Cauchy-Schwarz Inequality","id":"7f2a0cbec75cfb3f","x":-934,"y":3780,"width":274,"height":80,"color":"5"},
+		{"type":"link","url":"https://youtu.be/r2PogGDl8_U","id":"5f21aeed45571fb4","x":-1820,"y":3335,"width":640,"height":360},
+		{"type":"link","url":"https://drive.google.com/file/d/1NvBMAfFPVX2DwLqncjPhzaSoBNtdibm9/view?usp=share_link","id":"0f87bbcb8551ce85","x":-2560,"y":2955,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"a457b24bde08c5fa","fromNode":"e0ab9cbc44114da0","fromSide":"bottom","toNode":"7dab00923b7d0f5b","toSide":"top","color":"3"},
