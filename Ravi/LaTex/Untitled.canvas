@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"file","file":"Paragraphs in LaTex.md","id":"57ea957734d7819a","x":-1170,"y":636,"width":400,"height":400},
+		{"type":"file","file":"Preamble.md","id":"83a1bcffe9becdfb","x":282,"y":-65,"width":400,"height":400},
+		{"type":"text","text":"Start","id":"33b8b68bad2635df","x":-121,"y":-211,"width":141,"height":60,"color":"1"},
+		{"type":"text","text":"Minimal Working Document","id":"785b3670cb1a9b15","x":-214,"y":7,"width":274,"height":53},
+		{"type":"text","text":"Preamble","id":"be335e285dbbd35e","x":-92,"y":263,"width":152,"height":60},
+		{"type":"link","url":"https://drive.google.com/file/d/1B_hp1nVzTN2bs0OdB2Xy-cpC4BM3ynqp/view?usp=share_link","id":"a3ded5627f984e40","x":-740,"y":-265,"width":400,"height":400},
+		{"type":"link","url":"https://drive.google.com/file/d/1RxQqMl9Yi7Df0ukK4w27f7GBE8zEUqgW/view?usp=share_link","id":"dce2ac5bccf8af78","x":-1320,"y":-240,"width":400,"height":400},
+		{"type":"text","text":"Sections, Subsections and Table of Contents","id":"8c78934f7bf98661","x":-282,"y":478,"width":250,"height":60},
+		{"type":"file","file":"Sections in LaTex.md","id":"3dab8da3b337b16f","x":-888,"y":214,"width":400,"height":400},
+		{"type":"text","text":"Packages","id":"4ae00a34a8f32327","x":-154,"y":739,"width":250,"height":60},
+		{"type":"file","file":"Packges in LaTex.md","id":"ed184ea11b61e6ac","x":311,"y":434,"width":400,"height":400},
+		{"type":"text","text":"Paragraphs","id":"924e8cdcd09b6f9a","x":-433,"y":1013,"width":250,"height":60},
+		{"type":"text","text":"Text formatting","id":"bdeaac2bebb75d9c","x":-96,"y":1180,"width":192,"height":60},
+		{"id":"91e07fad1f70244c","x":380,"y":920,"width":400,"height":400,"type":"file","file":"Text Formatting in LaTex.md"},
+		{"id":"83021481385bcabf","x":-367,"y":1485,"width":250,"height":60,"type":"text","text":"Comments"},
+		{"id":"ff77f6f79602204e","x":-1213,"y":1176,"width":400,"height":400,"type":"file","file":"Comments in LaTex.md"}
+	],
+	"edges":[
+		{"id":"da44797cee5beda3","fromNode":"33b8b68bad2635df","fromSide":"bottom","toNode":"785b3670cb1a9b15","toSide":"top","color":"3"},
+		{"id":"e550eab4120e78e8","fromNode":"785b3670cb1a9b15","fromSide":"bottom","toNode":"be335e285dbbd35e","toSide":"top","color":"3"},
+		{"id":"6018e1a2d4991f55","fromNode":"be335e285dbbd35e","fromSide":"right","toNode":"83a1bcffe9becdfb","toSide":"left"},
+		{"id":"a05ac255cc628c30","fromNode":"785b3670cb1a9b15","fromSide":"left","toNode":"a3ded5627f984e40","toSide":"right"},
+		{"id":"ba87f91fb149b9bb","fromNode":"a3ded5627f984e40","fromSide":"left","toNode":"dce2ac5bccf8af78","toSide":"right"},
+		{"id":"cc7886c611fde897","fromNode":"be335e285dbbd35e","fromSide":"bottom","toNode":"8c78934f7bf98661","toSide":"top","color":"3"},
+		{"id":"35a4b7f882deb814","fromNode":"8c78934f7bf98661","fromSide":"left","toNode":"3dab8da3b337b16f","toSide":"right"},
+		{"id":"bf96a7e9295cee8f","fromNode":"8c78934f7bf98661","fromSide":"bottom","toNode":"4ae00a34a8f32327","toSide":"top","color":"3"},
+		{"id":"b10e2d91ef5c6c23","fromNode":"4ae00a34a8f32327","fromSide":"right","toNode":"ed184ea11b61e6ac","toSide":"left"},
+		{"id":"3754ad4ed3ebf2a4","fromNode":"4ae00a34a8f32327","fromSide":"bottom","toNode":"924e8cdcd09b6f9a","toSide":"top","color":"3"},
+		{"id":"2a3311b3ece4b3c6","fromNode":"924e8cdcd09b6f9a","fromSide":"left","toNode":"57ea957734d7819a","toSide":"right"},
+		{"id":"834463e572bce5d9","fromNode":"924e8cdcd09b6f9a","fromSide":"bottom","toNode":"bdeaac2bebb75d9c","toSide":"top","color":"3"},
+		{"id":"d2c285906526899e","fromNode":"bdeaac2bebb75d9c","fromSide":"right","toNode":"91e07fad1f70244c","toSide":"left"},
+		{"id":"516f044373050c03","fromNode":"bdeaac2bebb75d9c","fromSide":"bottom","toNode":"83021481385bcabf","toSide":"top","color":"3"},
+		{"id":"cb84ccd678f344b9","fromNode":"83021481385bcabf","fromSide":"left","toNode":"ff77f6f79602204e","toSide":"right"}
+	]
+}

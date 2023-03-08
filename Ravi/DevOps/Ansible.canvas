@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"Start","id":"7872899d3249e5c1","x":-140,"y":-280,"width":160,"height":60,"color":"1"},
+		{"type":"text","text":"Infrastructure as Code(IAC)","id":"1540695f75065a66","x":-214,"y":-19,"width":250,"height":60,"color":"5"},
+		{"id":"b1f3d9b7236f66ab","x":-623,"y":-122,"width":250,"height":60,"type":"text","text":"Tool to automate IT tasks"}
+	],
+	"edges":[
+		{"id":"bdfaec60e9b2a05d","fromNode":"7872899d3249e5c1","fromSide":"bottom","toNode":"1540695f75065a66","toSide":"top"},
+		{"id":"9c39ea1eae471f5f","fromNode":"1540695f75065a66","fromSide":"left","toNode":"b1f3d9b7236f66ab","toSide":"right"}
+	]
+}

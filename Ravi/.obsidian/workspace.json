@@ -13,24 +13,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AI/AI Canvas.canvas",
+                "file": "LaTex/Untitled.canvas",
                 "viewState": {
-                  "x": -1423.0747686735738,
-                  "y": 120.98329501163664,
-                  "zoom": -1.0914677694738564
+                  "x": -11.396817720799618,
+                  "y": 1173.9770386717526,
+                  "zoom": -0.8833333333333332
                 }
-              }
-            }
-          },
-          {
-            "id": "1f203fb593d7fbd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Things provided by Domain Designer.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/AI Canvas.canvas",
+                "file": "LaTex/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/AI Canvas.canvas",
+                "file": "LaTex/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI Canvas.canvas"
+                "file": "LaTex/Untitled.canvas"
               }
             }
           }
@@ -163,13 +151,23 @@
   },
   "active": "35bb9bf0f52478ae",
   "lastOpenFiles": [
-    "ML/ML Canvas.canvas",
-    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "Comments in LaTex.md",
+    "Text Formatting in LaTex.md",
+    "Paragraphs in LaTex.md",
+    "Packges in LaTex.md",
+    "Sections in LaTex.md",
+    "Preamble.md",
+    "DevOps/Ansible.canvas",
+    "LaTex/Untitled.canvas",
+    "LaTex",
     "AI/AI Canvas.canvas",
-    "One Algorithm to solve all problems.md",
-    "Things provided by Domain Designer.md",
-    "N Queens Problem.md",
+    "DevOps",
+    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "ML/ML Canvas.canvas",
     "8-Puzzle Problem.md",
+    "Things provided by Domain Designer.md",
+    "One Algorithm to solve all problems.md",
+    "N Queens Problem.md",
     "Uninformed Seach.md",
     "Problem Representation.md",
     "Who designs state space?.md",
@@ -201,8 +199,6 @@
     "Untitled 2.canvas",
     "Kubernetes_Lab_Questions_22nd_February_2023.pdf",
     "GH/He.md",
-    "GH/Untitled.canvas",
-    "GH/Untitled.md",
     "GH",
     "ML"
   ]

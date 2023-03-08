@@ -1,0 +1,2 @@
+1. The preamble to a LaTeX document is **all the information that occurs before the document begins**. The preamble starts with the command \documentclass{} and ends with the command \begin{document}.
+2. Like a meta-information. Doesn't show up in document unless specified like using \maketitle command.
