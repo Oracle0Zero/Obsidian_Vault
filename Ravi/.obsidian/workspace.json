@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "LaTex/Untitled.canvas",
+                "file": "DevOps/Ansible.canvas",
                 "viewState": {
-                  "x": -11.396817720799618,
-                  "y": 1173.9770386717526,
-                  "zoom": -0.8833333333333332
+                  "x": -569.4952603580982,
+                  "y": 2750.576890344261,
+                  "zoom": -0.7306331842979696
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "37fe44e37cf15ff8",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTex/Untitled.canvas",
+                "file": "DevOps/Ansible.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTex/Untitled.canvas",
+                "file": "DevOps/Ansible.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTex/Untitled.canvas"
+                "file": "DevOps/Ansible.canvas"
               }
             }
           }
@@ -151,18 +152,19 @@
   },
   "active": "35bb9bf0f52478ae",
   "lastOpenFiles": [
+    "Ansible Installation Commands.md",
+    "AI/AI Canvas.canvas",
+    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "LaTex/Untitled.canvas",
+    "DevOps/Ansible.canvas",
     "Comments in LaTex.md",
     "Text Formatting in LaTex.md",
     "Paragraphs in LaTex.md",
     "Packges in LaTex.md",
     "Sections in LaTex.md",
     "Preamble.md",
-    "DevOps/Ansible.canvas",
-    "LaTex/Untitled.canvas",
     "LaTex",
-    "AI/AI Canvas.canvas",
     "DevOps",
-    "Linear Algebra/Linear Algebra Canvas.canvas",
     "ML/ML Canvas.canvas",
     "8-Puzzle Problem.md",
     "Things provided by Domain Designer.md",
@@ -198,7 +200,6 @@
     "hgj.md",
     "Untitled 2.canvas",
     "Kubernetes_Lab_Questions_22nd_February_2023.pdf",
-    "GH/He.md",
     "GH",
     "ML"
   ]

@@ -1,11 +1,45 @@
 {
 	"nodes":[
-		{"type":"text","text":"Start","id":"7872899d3249e5c1","x":-140,"y":-280,"width":160,"height":60,"color":"1"},
+		{"type":"text","text":"Ansible","id":"7872899d3249e5c1","x":-140,"y":-280,"width":160,"height":60,"color":"1"},
 		{"type":"text","text":"Infrastructure as Code(IAC)","id":"1540695f75065a66","x":-214,"y":-19,"width":250,"height":60,"color":"5"},
-		{"id":"b1f3d9b7236f66ab","x":-623,"y":-122,"width":250,"height":60,"type":"text","text":"Tool to automate IT tasks"}
+		{"type":"text","text":"Infrastructure Automation","id":"74ce514234a6e86e","x":-721,"y":-116,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Infrastructure Provision","id":"64f2db62f958d573","x":-920,"y":140,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Properties of Ansible","id":"7f106066593e884c","x":-540,"y":910,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Config Management","id":"67f92364ec1c653b","x":-596,"y":140,"width":250,"height":60,"color":"4"},
+		{"type":"link","url":"https://youtu.be/Km3BCQnV6sw","id":"e328fc6f457cb5b6","x":235,"y":853,"width":640,"height":360},
+		{"type":"link","url":"https://www.ibm.com/topics/infrastructure-as-code?cm_mmc=OSocial_Youtube-_-Cloud+and+Data+Platform_SFT+Cloud+Platform+Digital-_-WW_WW-_-YTCard-101-What-is-Ansible-LH-Infrastructure-as-Code-Guide&cm_mmca1=000023UA&cm_mmca2=10010608","id":"835cc7e277774425","x":200,"y":-80,"width":741,"height":682},
+		{"type":"link","url":"https://youtu.be/fHO1X93e4WA","id":"130818265d0c03d4","x":500,"y":-580,"width":640,"height":360},
+		{"type":"text","text":"Ansible Installation","id":"13b3c4c67c73f84d","x":-380,"y":1287,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Why need Ansible?","id":"f89a4c32d9d6d4df","x":-346,"y":500,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Declarative","id":"727c2880f6d142cf","x":-1080,"y":1000,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Agent-Less","id":"3af09f4790db582e","x":-1080,"y":840,"width":250,"height":70,"color":"4"},
+		{"type":"text","text":"Community Driven","id":"fd032382c93c9850","x":-1080,"y":680,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Idempotent","id":"21481e75fd7b3bde","x":-1080,"y":1161,"width":250,"height":52,"color":"4"},
+		{"type":"file","file":"Ansible Installation Commands.md","id":"762293c7aafc6461","x":-400,"y":1621,"width":620,"height":539,"color":"5"},
+		{"type":"text","text":"1. ansible -m ping all\n2. ansible -m ping pattern-name\n3. ansible -m ping host-name\n4. ansible all -a \"mkdir demo_dir\"\n5. ansible all -a \"rm -rf demo_dir\"\n6. ansible all -m file -a \"path=~/demo_dir state=directory\"\n7. ansible all -m file -a \"path=~/demo_dir state=directory\"","id":"102a3cc9130169d5","x":-500,"y":2440,"width":492,"height":277,"color":"5"},
+		{"type":"link","url":"https://drive.google.com/file/d/1zamov-ao7oJ5uVof4LvtzGCri8ZsAgjS/view?usp=share_link","id":"c4460d3e7bda53e1","x":-2400,"y":41,"width":1205,"height":580},
+		{"type":"text","text":"modules","id":"dbda664ba975e5b0","x":-420,"y":3060,"width":250,"height":60,"color":"5"},
+		{"type":"link","url":"https://docs.ansible.com/ansible/2.9/modules/list_of_all_modules.html","id":"f61a6b19d563e0d0","x":-1600,"y":2579,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"bdfaec60e9b2a05d","fromNode":"7872899d3249e5c1","fromSide":"bottom","toNode":"1540695f75065a66","toSide":"top"},
-		{"id":"9c39ea1eae471f5f","fromNode":"1540695f75065a66","fromSide":"left","toNode":"b1f3d9b7236f66ab","toSide":"right"}
+		{"id":"bdfaec60e9b2a05d","fromNode":"7872899d3249e5c1","fromSide":"bottom","toNode":"1540695f75065a66","toSide":"top","color":"3"},
+		{"id":"800ccfdc8cab14cf","fromNode":"1540695f75065a66","fromSide":"right","toNode":"835cc7e277774425","toSide":"left"},
+		{"id":"0f4bb6b5ef92ea4a","fromNode":"1540695f75065a66","fromSide":"left","toNode":"74ce514234a6e86e","toSide":"right"},
+		{"id":"b3c3f09c9b945723","fromNode":"74ce514234a6e86e","fromSide":"bottom","toNode":"64f2db62f958d573","toSide":"top"},
+		{"id":"9fd77a453e24beaa","fromNode":"74ce514234a6e86e","fromSide":"bottom","toNode":"67f92364ec1c653b","toSide":"top"},
+		{"id":"2d2ee34e161e82b7","fromNode":"7f106066593e884c","fromSide":"left","toNode":"727c2880f6d142cf","toSide":"right"},
+		{"id":"51c41e6c3e391092","fromNode":"7f106066593e884c","fromSide":"left","toNode":"3af09f4790db582e","toSide":"right"},
+		{"id":"392988961ac9ce8c","fromNode":"7f106066593e884c","fromSide":"left","toNode":"21481e75fd7b3bde","toSide":"right"},
+		{"id":"1169c55a96200958","fromNode":"7f106066593e884c","fromSide":"left","toNode":"fd032382c93c9850","toSide":"right"},
+		{"id":"a55f862d0afe8344","fromNode":"13b3c4c67c73f84d","fromSide":"right","toNode":"e328fc6f457cb5b6","toSide":"left"},
+		{"id":"59919688b5463816","fromNode":"7872899d3249e5c1","fromSide":"right","toNode":"130818265d0c03d4","toSide":"left"},
+		{"id":"70a72282a7ff55df","fromNode":"1540695f75065a66","fromSide":"bottom","toNode":"f89a4c32d9d6d4df","toSide":"top","color":"3"},
+		{"id":"d9f31c6487675c38","fromNode":"f89a4c32d9d6d4df","fromSide":"bottom","toNode":"7f106066593e884c","toSide":"top","color":"3"},
+		{"id":"89ff828e4515ab79","fromNode":"7f106066593e884c","fromSide":"bottom","toNode":"13b3c4c67c73f84d","toSide":"top","color":"3"},
+		{"id":"926303a48efddd0f","fromNode":"f89a4c32d9d6d4df","fromSide":"left","toNode":"c4460d3e7bda53e1","toSide":"right"},
+		{"id":"1076b73b076556eb","fromNode":"dbda664ba975e5b0","fromSide":"left","toNode":"f61a6b19d563e0d0","toSide":"right"},
+		{"id":"bd5caa29e5fe8cf6","fromNode":"13b3c4c67c73f84d","fromSide":"bottom","toNode":"762293c7aafc6461","toSide":"top","color":"3"},
+		{"id":"31d19c4a5bb3ff3e","fromNode":"762293c7aafc6461","fromSide":"bottom","toNode":"102a3cc9130169d5","toSide":"top","color":"3"},
+		{"id":"997b9b0a0afa1b4e","fromNode":"102a3cc9130169d5","fromSide":"bottom","toNode":"dbda664ba975e5b0","toSide":"top","color":"3"}
 	]
 }
