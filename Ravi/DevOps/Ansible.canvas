@@ -18,8 +18,13 @@
 		{"type":"file","file":"Ansible Installation Commands.md","id":"762293c7aafc6461","x":-400,"y":1621,"width":620,"height":539,"color":"5"},
 		{"type":"text","text":"1. ansible -m ping all\n2. ansible -m ping pattern-name\n3. ansible -m ping host-name\n4. ansible all -a \"mkdir demo_dir\"\n5. ansible all -a \"rm -rf demo_dir\"\n6. ansible all -m file -a \"path=~/demo_dir state=directory\"\n7. ansible all -m file -a \"path=~/demo_dir state=directory\"","id":"102a3cc9130169d5","x":-500,"y":2440,"width":492,"height":277,"color":"5"},
 		{"type":"link","url":"https://drive.google.com/file/d/1zamov-ao7oJ5uVof4LvtzGCri8ZsAgjS/view?usp=share_link","id":"c4460d3e7bda53e1","x":-2400,"y":41,"width":1205,"height":580},
-		{"type":"text","text":"modules","id":"dbda664ba975e5b0","x":-420,"y":3060,"width":250,"height":60,"color":"5"},
-		{"type":"link","url":"https://docs.ansible.com/ansible/2.9/modules/list_of_all_modules.html","id":"f61a6b19d563e0d0","x":-1600,"y":2579,"width":400,"height":400}
+		{"type":"link","url":"https://docs.ansible.com/ansible/2.9/modules/list_of_all_modules.html","id":"f61a6b19d563e0d0","x":-1600,"y":2579,"width":400,"height":400},
+		{"type":"text","text":"modules","id":"dbda664ba975e5b0","x":-685,"y":3080,"width":250,"height":50,"color":"5"},
+		{"id":"70104cb3cf45f81e","x":-560,"y":3640,"width":400,"height":400,"color":"5","type":"link","url":"https://drive.google.com/file/d/1HS3ou5QmxXq-tFBT-1RC5bWsrMs-UK5w/view?usp=share_link"},
+		{"type":"text","text":"1. ansible-playbook create-directory.yml --syntax-check\n2. ansible-playbook create-directory.yml --check\n3. ansible-playbook create-directory.yml","id":"eb2303b6aeef7912","x":160,"y":3420,"width":480,"height":160},
+		{"id":"b6e93e376bbb868c","x":-1040,"y":4600,"width":400,"height":400,"color":"5","type":"link","url":"https://drive.google.com/file/d/1RFu6DI4V7JZVVcP7v7T_x7mvwkVg_gX9/view?usp=share_link"},
+		{"id":"20a913044c70f69e","x":-900,"y":5600,"width":420,"height":400,"type":"link","url":"https://drive.google.com/file/d/1gx7n1-NrfFNjeSY89cWA-szwDg7jlfxg/view?usp=share_link"},
+		{"id":"4d8ca54b191c97a0","x":80,"y":4960,"width":400,"height":400,"type":"link","url":"https://drive.google.com/file/d/1h7Wds27eIepTjlV6Bv53ksXdvmV9fsHk/view?usp=share_link"}
 	],
 	"edges":[
 		{"id":"bdfaec60e9b2a05d","fromNode":"7872899d3249e5c1","fromSide":"bottom","toNode":"1540695f75065a66","toSide":"top","color":"3"},
@@ -40,6 +45,11 @@
 		{"id":"1076b73b076556eb","fromNode":"dbda664ba975e5b0","fromSide":"left","toNode":"f61a6b19d563e0d0","toSide":"right"},
 		{"id":"bd5caa29e5fe8cf6","fromNode":"13b3c4c67c73f84d","fromSide":"bottom","toNode":"762293c7aafc6461","toSide":"top","color":"3"},
 		{"id":"31d19c4a5bb3ff3e","fromNode":"762293c7aafc6461","fromSide":"bottom","toNode":"102a3cc9130169d5","toSide":"top","color":"3"},
-		{"id":"997b9b0a0afa1b4e","fromNode":"102a3cc9130169d5","fromSide":"bottom","toNode":"dbda664ba975e5b0","toSide":"top","color":"3"}
+		{"id":"997b9b0a0afa1b4e","fromNode":"102a3cc9130169d5","fromSide":"bottom","toNode":"dbda664ba975e5b0","toSide":"top","color":"3"},
+		{"id":"1202eb4034d182bc","fromNode":"dbda664ba975e5b0","fromSide":"bottom","toNode":"70104cb3cf45f81e","toSide":"top","color":"3","label":"Create file and directory"},
+		{"id":"8373fc9e41f93ac3","fromNode":"70104cb3cf45f81e","fromSide":"right","toNode":"eb2303b6aeef7912","toSide":"left"},
+		{"id":"12b07b70ed88654a","fromNode":"70104cb3cf45f81e","fromSide":"bottom","toNode":"b6e93e376bbb868c","toSide":"top","color":"3","label":"Apache installation"},
+		{"id":"1b82f3163040958b","fromNode":"b6e93e376bbb868c","fromSide":"bottom","toNode":"20a913044c70f69e","toSide":"top","color":"3","label":"Apache configuration"},
+		{"id":"9fcff8c918c1f5a5","fromNode":"20a913044c70f69e","fromSide":"right","toNode":"4d8ca54b191c97a0","toSide":"left","label":"hello.sh"}
 	]
 }

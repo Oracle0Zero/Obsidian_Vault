@@ -15,9 +15,9 @@
               "state": {
                 "file": "DevOps/Ansible.canvas",
                 "viewState": {
-                  "x": -569.4952603580982,
-                  "y": 2750.576890344261,
-                  "zoom": -0.7306331842979696
+                  "x": -545.2194594306881,
+                  "y": 5497.768062503557,
+                  "zoom": -1.0258865114600577
                 }
               }
             }
@@ -68,12 +68,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "37fe44e37cf15ff8",
@@ -152,11 +152,13 @@
   },
   "active": "35bb9bf0f52478ae",
   "lastOpenFiles": [
-    "Ansible Installation Commands.md",
-    "AI/AI Canvas.canvas",
-    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "Create-Directory.yml.md",
     "LaTex/Untitled.canvas",
     "DevOps/Ansible.canvas",
+    "AI/AI Canvas.canvas",
+    "Linear Algebra/Linear Algebra Canvas.canvas",
+    "ML/ML Canvas.canvas",
+    "Ansible Installation Commands.md",
     "Comments in LaTex.md",
     "Text Formatting in LaTex.md",
     "Paragraphs in LaTex.md",
@@ -165,7 +167,6 @@
     "Preamble.md",
     "LaTex",
     "DevOps",
-    "ML/ML Canvas.canvas",
     "8-Puzzle Problem.md",
     "Things provided by Domain Designer.md",
     "One Algorithm to solve all problems.md",
@@ -197,7 +198,6 @@
     "ML",
     "Don't.md",
     "hgfhgf.md",
-    "hgj.md",
     "Untitled 2.canvas",
     "Kubernetes_Lab_Questions_22nd_February_2023.pdf",
     "GH",
